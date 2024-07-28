@@ -33,4 +33,4 @@
 - **[Twitter](https://x.com/etherbiln)**
 
 ## My Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=etherbiln&show_icons=true&theme=radical)
