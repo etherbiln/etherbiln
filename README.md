@@ -35,5 +35,3 @@
 ## My Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?etherbiln&show_icons=true&theme=radical)
 
-## My Workspace
-![Top Languages](https://github.com/etherbiln?tab=repositories)
