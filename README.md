@@ -21,7 +21,7 @@ My passion for technology not only drives me to expand my existing knowledge but
 - **Layer 2 Solutions:** Worked on Layer 2 solutions like Scroll, Linea, and Taiko, enhancing blockchain performance, and making transactions faster and more cost-effective. These innovative approaches have deepened my interest in blockchain technology and motivated me to develop projects in this field. Through these experiences, I have strengthened my collaboration and open communication skills.
 
 ## Smart Contract Developer (Solidity)  1 Year currently
-- **As a Smart Contract Developer at a private company, I am dedicated to maximizing the opportunities offered by blockchain technologies by developing innovative solutions. I play an active role in all stages of the process, from the design and development to the implementation of smart contracts.
+- **As a Smart Contract Developer at a private company**, I am dedicated to maximizing the opportunities offered by blockchain technologies by developing innovative solutions. I play an active role in all stages of the process, from the design and development to the implementation of smart contracts.
 
 ## Social Media
 - **[LinkedIn](https://www.linkedin.com/in/yakup-bilen-911374239/)**
