@@ -3,7 +3,7 @@
 ## About Me
 - 🎓 **Education:** Bachelor's Degree in Computer Engineering, Tarsus University
 - 🌱 **Currently Learning:** Smart Contract (Solidity),Layer 2 solutions, Rollups, and Zero-Knowledge Proofs (ZK)
-- 📫 **Contact:** [yakupbln00@gmail.com]
+- 📫 **Contact:** yakupbln00@gmail.com
 
 ## Skills and Expertise
 - **Solidity:** Secure, efficient, and gas-optimized smart contract design, development, and deployment.
@@ -33,5 +33,4 @@
 - **[Twitter](https://x.com/etherbiln)**
 
 ## My Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?etherbiln&show_icons=true&theme=radical)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
