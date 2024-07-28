@@ -10,8 +10,8 @@ My passion for technology not only drives me to expand my existing knowledge but
 
 | **Blockchain**       | **Ethereum**   | **Performance**     | **Other**               |
 |----------------------|----------------|---------------------|-------------------------|
-| **Solidity**         | **EVM**        | **Multithreading**  | **Ethereum frameworks** |
-| **DApp Development** | **Hardhat**    | **gas optimization**| **OOP, Data Structures**|
+| **Solidity**         | **EVM**        | **Multithreading**  | **Ethereum Hardhat...** |
+| **DApp Development** | **Frameworks** | **gas optimization**| **OOP, Data Structures**|
 | **Unit Testing**     | **ZK,Rollups** | **Algorithms**      | **Linux (Ubuntu)**      |
 | **Smart Contracts**  |**Cryptography**| **C/C++/Java**      | **Web3.js, Ethers.js**  |
 
