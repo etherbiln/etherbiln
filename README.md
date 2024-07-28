@@ -26,6 +26,8 @@ My passion for technology not only drives me to expand my existing knowledge but
 ## Social Media
 - **[LinkedIn](https://www.linkedin.com/in/yakup-bilen-911374239/)**
 - **[Twitter](https://x.com/etherbiln)**
+- **Telegram:** [Yakupbiln](https://t.me/Yakupbiln)
+- **Discord:** etherbiln
 
 ## My Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=etherbiln&show_icons=true&theme=radical)
