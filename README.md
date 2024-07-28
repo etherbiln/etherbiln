@@ -1,27 +1,19 @@
-# Hello, I'm Yakup! 👋
+# Hi, I'm Yakup! 👋
 
 ## About Me
-- 🎓 **Education:** Bachelor's Degree in Computer Engineering, Tarsus University
-- 🌱 **Currently Learning:** Smart Contract (Solidity),Layer 2 solutions, Rollups, and Zero-Knowledge Proofs (ZK)
-- 📫 **Contact:** yakupbln00@gmail.com
+🎓 **Education:** Bachelor's Degree in Computer Engineering, Tarsus University   
+📫 **Contact:** yakupbln00@gmail.com  
+
+My passion for technology not only drives me to expand my existing knowledge but also inspires me to develop new and innovative projects. I derive great satisfaction from working on unique and previously unexplored ventures. While my interest in art reflects my desire to merge creativity with technology, my enthusiasm for outdoor activities provides me with a balanced perspective. These diverse interests not only propel me forward in the field of technology but also encourage my growth in leadership and innovation.
 
 ## Skills and Expertise
-- **Solidity:** Secure, efficient, and gas-optimized smart contract design, development, and deployment.
-- **Ethereum:** In-depth knowledge of Ethereum Virtual Machine (EVM), Layer 2 solutions, Rollups, and Zero-Knowledge Proofs (ZK).
-- **Development Tools:** Extensive hands-on experience with Ethereum development tools and frameworks.
-- **Git and GitHub**
-- **Linux (Ubuntu)**
-- **Unit Testing and Hardhat**
-- **DApp Development:** Active role in writing, deploying, and testing smart contracts.
-- **Blockchain and Cryptocurrencies:** Profound knowledge in blockchain technologies and cryptocurrencies.
-- **Cryptography:** Basic understanding of cryptographic principles and algorithms for blockchain security.
-- **Code Reviews:** Participation in code reviews, ensuring high-quality code standards, and providing constructive feedback.
-- **3 Years of Experience:** Writing clean, readable, and reliable code.
-- **Languages:** Turkish, Kurdish, English (B2+)
-- **Object-Oriented Programming (OOP) and Data Structures**
-- **Modern C++ and Multithreading:** Strong proficiency in system-level programming and performance optimization.
-- **Java:** Knowledge in project design and development.
-- **JavaScript, Web3.js, and Ethers.js:** Intermediate knowledge and experience.
+
+| **Blockchain**       | **Ethereum**   | **Performance**        | **Other**             |
+|----------------------|----------------|------------------------|-----------------------|
+| **Solidity**         | **EVM**        | **Modern C++**         | **Git and GitHub**    |
+| **DApp Development** | **Hardhat**    | **Multithreading**     | **Linux (Ubuntu)**    |
+| **Unit Testing**     | **ZK,Rollups** | **Java**               | **OOP, Data Structures** |
+| **SmartContracts**   |**Cryptography**| **C/C++**              | **Web3.js, Ethers.js**|
 
 ## Professional Experience
 ### Volunteer
