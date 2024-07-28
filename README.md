@@ -8,12 +8,12 @@ My passion for technology not only drives me to expand my existing knowledge but
 
 ## Skills and Expertise
 
-| **Blockchain**       | **Ethereum**   | **Performance**        | **Other**             |
-|----------------------|----------------|------------------------|-----------------------|
-| **Solidity**         | **EVM**        | **Modern C++**         | **Git and GitHub**    |
-| **DApp Development** | **Hardhat**    | **Multithreading**     | **Linux (Ubuntu)**    |
-| **Unit Testing**     | **ZK,Rollups** | **Java**               | **OOP, Data Structures** |
-| **SmartContracts**   |**Cryptography**| **C/C++**              | **Web3.js, Ethers.js**|
+| **Blockchain**       | **Ethereum**   | **Performance**          | **Other**               |
+|----------------------|----------------|--------------------------|-------------------------|
+| **Solidity**         | **EVM**        | **Multithreading**       | **Ethereum frameworks** |
+| **DApp Development** | **Hardhat**    | **Secure,efficient gas   | **OOP, Data Structures**|
+| **Unit Testing**     | **ZK,Rollups** | optimized smartContract**| **Linux (Ubuntu)**      |
+| **Smart Contracts**  |**Cryptography**| **C/C++/Java**           | **Web3.js, Ethers.js**  |
 
 ## Professional Experience
 ### Volunteer 1-2 year
