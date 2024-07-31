@@ -2,7 +2,8 @@
 
 ## About Me
 🎓 **Education:** Bachelor's Degree in Computer Engineering, Tarsus University/Turkey   
-📫 **Contact:** yakupbln00@gmail.com  
+📫 **Contact:** yakupbln00@gmail.com
+   **Telegram:** [Yakupbiln](https://t.me/Yakupbiln)
 
 My passion for technology not only drives me to expand my existing knowledge but also inspires me to develop new and innovative projects. I derive great satisfaction from working on unique and previously unexplored ventures. While my interest in art reflects my desire to merge creativity with technology, my enthusiasm for outdoor activities provides me with a balanced perspective. These diverse interests not only propel me forward in the field of technology but also encourage my growth in leadership and innovation.
 
@@ -26,7 +27,6 @@ My passion for technology not only drives me to expand my existing knowledge but
 ## Social Media
 - **[LinkedIn](https://www.linkedin.com/in/yakup-bilen-911374239/)**
 - **[Twitter](https://x.com/etherbiln)**
-- **Telegram:** [Yakupbiln](https://t.me/Yakupbiln)
 - **Discord:** etherbiln
 
 ## My Stats
