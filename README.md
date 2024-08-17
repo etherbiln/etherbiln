@@ -17,11 +17,11 @@ My passion for technology not only drives me to expand my existing knowledge but
 | **Smart Contracts**  |**Cryptography**| **C/C++/Java**      | **Web3.js, Ethers.js**  |
 
 ## Professional Experience
-### Volunteer 1-2 year
+### Volunteer Aug 2023- Currently Employed
 - **Open-Source Projects:** Actively contributed to various open-source projects, participating in software development processes, project management, progress monitoring, issue troubleshooting, and community engagement.
 - **Layer 2 Solutions:** Worked on Layer 2 solutions like Scroll, Linea, and Taiko, enhancing blockchain performance, and making transactions faster and more cost-effective. These innovative approaches have deepened my interest in blockchain technology and motivated me to develop projects in this field. Through these experiences, I have strengthened my collaboration and open communication skills.
 
-## Smart Contract Developer (Solidity)  1 Year currently
+## Smart Contract Developer (Solidity)  06.2023 - 08.2024
 - **As a Smart Contract Developer at a private company**, I am dedicated to maximizing the opportunities offered by blockchain technologies by developing innovative solutions. I play an active role in all stages of the process, from the design and development to the implementation of smart contracts.
 
 ## Social Media
