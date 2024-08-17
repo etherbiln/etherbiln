@@ -30,4 +30,4 @@ My passion for technology not only drives me to expand my existing knowledge but
 - **Discord:** etherbiln
 
 ## My Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=etherbiln&show_icons=true&theme=radical)
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={etherbiln}&theme={Casper})
