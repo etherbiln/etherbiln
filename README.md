@@ -18,11 +18,16 @@ My passion for technology not only drives me to expand my existing knowledge but
 
 ## Professional Experience
 ### Volunteer - Aug 2023- Currently Employed
-- **Open-Source Projects:** Actively contributed to various open-source projects, participating in software development processes, project management, progress monitoring, issue troubleshooting, and community engagement.
-- **Layer 2 Solutions:** Worked on Layer 2 solutions like Scroll, Linea, and Taiko, enhancing blockchain performance, and making transactions faster and more cost-effective. These innovative approaches have deepened my interest in blockchain technology and motivated me to develop projects in this field. Through these experiences, I have strengthened my collaboration and open communication skills.
 
-## Smart Contract Developer (Solidity)  -  06.2023 - 08.2024
-- **As a Smart Contract Developer at a private company**, I am dedicated to maximizing the opportunities offered by blockchain technologies by developing innovative solutions. I play an active role in all stages of the process, from the design and development to the implementation of smart contracts.
+I have actively contributed to various open-source projects and volunteered in software development processes. These experiences have equipped me with valuable expertise in project management and the different stages of development, including progress monitoring, issue resolution, and community engagement. My primary focus has been on smart contract development and optimization. Working on Layer 2 solutions such as Scroll, Linea, and Shardeum has allowed me to enhance blockchain performance, making transactions faster and more cost-effective.
+
+## Tools and Technologies Used
+
+- **Smart Contract Development:** Hardhat, Truffle, OpenZeppelin, Remix
+- **Blockchain Interaction:** Web3.js, Ethers.js
+- **Security and Testing:** Slither, Echidna
+- **Programming Language:** Solidity,JavaScript
+
 
 ## Social Media
 - **[LinkedIn](https://www.linkedin.com/in/yakup-bilen-911374239/)**
