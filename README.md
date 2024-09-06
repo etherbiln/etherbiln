@@ -31,7 +31,7 @@ I have actively contributed to various open-source projects and volunteered in s
 
 ## Social Media
 - **[LinkedIn](https://www.linkedin.com/in/yakup-bilen-911374239/)**
-- **[Twitter](https://x.com/etherbiln)**
+- **[Twitter](https://x.com/Yakupbiln)**
 - **Discord:** etherbiln
 
 ## My Stats
