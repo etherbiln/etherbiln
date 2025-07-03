@@ -1,4 +1,4 @@
-# 🚀 Welcome to Yakup's GitHub Universe! 🌟
+# 🚀 Welcome to Yakup's GitHub Universe!
 
 ## About Me
 🎓 **Education:** Bachelor's Degree in Computer Engineering, Tarsus University/Turkey   
